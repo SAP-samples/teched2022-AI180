@@ -2,7 +2,7 @@
  - [Overview](#overview)
  - [Get a Free Account on SAP BTP](#AccountBTP)
  - [Subscribe to SAP Process Automation](#SPA)
- - [Role Collection creation](#Role)
+ - [Role Collection Creation](#Role)
  - [Role Collection Assignment](#RoleCollection)
  - [Summary](#summary)
 
@@ -39,7 +39,7 @@ In this exercise, you will learn:
 
 <br>![05](./images/005.png)
 
-## 3. Role Collection creation  <a name="Role"></a>
+## 3. Role Collection Creation  <a name="Role"></a>
 
 1. Under **Security** Menu choose **Role Collections**.
 
@@ -49,13 +49,30 @@ In this exercise, you will learn:
 
 <br>![07](./images/007.png)
 
-3. Priya/ Archana what kind of roles do we need to assign for TechEd?? NAme?
+3. Priya/ Archana what kind of roles do we need to assign for TechEd?? NAme? SPA Office?
+
+<br>![08](./images/008.png)
+
+4. Select the created Role collection.
+
+<br>![09](./images/009.png)
+
+5. Choose **Edit** button
+
+<br>![010](./images/010.png)
+
+6. Select **Role Name**
+
+<br>![011](./images/011.png)
+
+7. Search for **SPA Officer** not possible do we have to choose the one with iRPA?
+
 
 ## 4. Role Collection Assignment  <a name="RoleCollection"></a>
 
  1. Go back to the trail subaccount
 
-
+## 5. SAP Process Automation Factory access
 
 ## Summary  <a name="summary"></a>
 

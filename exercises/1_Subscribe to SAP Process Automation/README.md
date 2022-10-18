@@ -1,26 +1,63 @@
-# Level 1 Heading
+## Table of Contents
+ - [Overview](#overview)
+ - [Get a Free Account on SAP BTP](#AccountBTP)
+ - [Subscribe to SAP Process Automation](#SPA)
+ - [Role Collection creation](#Role)
+ - [Role Collection Assignment](#RoleCollection)
+ - [Summary](#summary)
 
-In this exercise, you will...
+### Overview <a name="overview"></a>
 
-## Level 2 Heading
+In this exercise, you will learn:
+- How to start create SAP Process Automation Trial account
 
-After completing these steps you will have....
+## 1. Get a Free Account on SAP BTP <a name="AccountBTP"></a>
 
-1.	Click here.
-<br>![](/exercises/ex0/images/00_00_0010.png)
+1. Complete [Get a Free Account on SAP BTP Trial](https://developers.sap.com/tutorials/hcp-create-trial-account.html) tutorial.
 
-2.	Insert this code.
-``` abap
- DATA(params) = request->get_form_fields(  ).
- READ TABLE params REFERENCE INTO DATA(param) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
-```
+## 2. Subscribe to SAP Process Automation  <a name="SPA"></a>
 
-## Summary
+1.	Select **Service Marketplace**. In the Search field type **SAP Process Automation** and select the tile.
 
-Now that you have ... 
-Continue to - [Exercise 1 - Exercise 1 Description](../ex1/README.md)
+<br>![01](./images/001.png)
+
+> In case the SAP Process Automation cannot be found, go to the Step XX.
+
+2. Choose **Create** button.
+
+<br>![02](./images/002.png)
+
+3. In the New Instance or Subscription window, choose the **free** Plan and select **Create** button.
+
+<br>![03](./images/003.png)
+
+4. Select **View Subscription** button.
+
+<br>![04](./images/004.png)
+
+5. Check if its processed and created successfully.
+
+<br>![05](./images/005.png)
+
+## 3. Role Collection creation  <a name="Role"></a>
+
+1. Under **Security** Menu choose **Role Collections**.
+
+<br>![06](./images/006.png)
+
+2. Select **(+)** to create a new Role Collection.
+
+<br>![07](./images/007.png)
+
+3. Priya/ Archana what kind of roles do we need to assign for TechEd?? NAme?
+
+## 4. Role Collection Assignment  <a name="RoleCollection"></a>
+
+ 1. Go back to the trail subaccount
+
+
+
+## Summary  <a name="summary"></a>
+
+Now that you have ...
+Continue to - [Exercise 2](../ex2/README.md)

@@ -52,11 +52,9 @@ In this exercise, you will learn:
 
 <br>![07](./images/007.png)
 
-3. Select 3 roles:
-- ProcessAutomationAdmin
-- ProcessAutomationDeveloper		
-- ProcessAutomationParticipant
-and select **Assign Role Collectio0n** button.
+3. In the Assign Role Collection window,
+- Select 3 roles: ProcessAutomationAdmin, ProcessAutomationDeveloper, ProcessAutomationParticipant,
+- Select **Assign Role Collection** button.
 
 <br>![08](./images/008.png)
 

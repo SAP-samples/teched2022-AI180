@@ -58,7 +58,7 @@ In this exercise, you will learn:
 
 <br>![08](./images/008.png)
 
-4. After assigning roles, your Roles Collection should look like this:
+4. After assigning roles, your **Roles Collections** section should look like this:
 
 <br>![09](./images/009.png)
 

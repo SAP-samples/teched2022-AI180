@@ -2,8 +2,7 @@
  - [Overview](#overview)
  - [Get a Free Account on SAP BTP](#AccountBTP)
  - [Subscribe to SAP Process Automation](#SPA)
- - [Role Collection Creation](#Role)
- - [Role Collection Assignment](#RoleCollection)
+ - [Assign Roles](#Roles)
  - [Summary](#summary)
 
 ### Overview <a name="overview"></a>
@@ -39,40 +38,33 @@ In this exercise, you will learn:
 
 <br>![05](./images/005.png)
 
-## 3. Role Collection Creation  <a name="Role"></a>
+## 3. Assign Roles  <a name="Roles"></a>
 
-1. Under **Security** Menu choose **Role Collections**.
+1. To get access, assign the role collection to your user.
+- Go to the **Users**,
+- Pick your user,
+- Next to Role Collections, choose **3 dots**,
+- Select Assign **Role Collection**.
 
 <br>![06](./images/006.png)
 
-2. Select **(+)** to create a new Role Collection.
+2. In the Assign Role Collection window, under search field type **process** to find Process Automation Roles.
 
 <br>![07](./images/007.png)
 
-3. Priya/ Archana what kind of roles do we need to assign for TechEd?? NAme? SPA Office?
+3. Select 3 roles:
+- ProcessAutomationAdmin
+- ProcessAutomationDeveloper		
+- ProcessAutomationParticipant
+and select **Assign Role Collectio0n** button.
 
 <br>![08](./images/008.png)
 
-4. Select the created Role collection.
+4. After assigning roles, your Roles Collection should look like this:
 
 <br>![09](./images/009.png)
 
-5. Choose **Edit** button
-
-<br>![010](./images/010.png)
-
-6. Select **Role Name**
-
-<br>![011](./images/011.png)
-
-7. Search for **SPA Officer** not possible do we have to choose the one with iRPA?
-
-
-## 4. Role Collection Assignment  <a name="RoleCollection"></a>
-
- 1. Go back to the trail subaccount
-
-## 5. SAP Process Automation Factory access
+5. Lauch Application
 
 ## Summary  <a name="summary"></a>
 

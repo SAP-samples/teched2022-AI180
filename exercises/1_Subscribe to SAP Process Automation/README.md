@@ -64,7 +64,7 @@ and select **Assign Role Collectio0n** button.
 
 <br>![09](./images/009.png)
 
-5. Lauch Application
+5. Launch SAP Application Development.
 
 ## Summary  <a name="summary"></a>
 

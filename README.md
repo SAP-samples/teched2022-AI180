@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called AI180 - Automate Your Invoice Processing with SAP Process Automation
+This repository contains the material for the SAP TechEd 2022 session called **AI180 - Automate Your Invoice Processing with SAP Process Automation**.
 
 ## Overview
 
@@ -10,16 +10,11 @@ Explore how to improve the efficiency of invoice processing with a no-code appro
 
 ## Requirements
 
-You will either need a trial account with SAP Process Automation enabled (as described in this [blog](https://blogs.sap.com/2022/09/09/sap-process-automation-now-available-in-your-trail-account/)), or a regular account with the free-tier service plan for SAP Process Automation (as described in [Subscribe to SAP Process Automation Using Booster in SAP BTP Free Tier](https://developers.sap.com/tutorials/spa-subscribe-booster.html)).
+You will either need a **trial account** with SAP Process Automation enabled (as described in this [blog](https://blogs.sap.com/2022/09/09/sap-process-automation-now-available-in-your-trail-account/)), or a regular account with the **free tier** service plan for SAP Process Automation (as described in [Subscribe to SAP Process Automation Using Booster in SAP BTP Free Tier](https://developers.sap.com/tutorials/spa-subscribe-booster.html)).
 
 ## Exercises
 
-Start the exercises [here](https://developers.sap.com/mission.invoice-processing-approval-spa.html).
-
-
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
+Start the exercises [here](https://developers.sap.com/mission.invoice-processing-approval-spa.html). 
 
 ## How to obtain support
 

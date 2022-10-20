@@ -20,8 +20,6 @@ In this exercise, you will learn:
 
 <br>![01](./images/001.png)
 
-> In case the SAP Process Automation cannot be found, go to the Step XX.
-
 2. Choose **Create** button.
 
 <br>![02](./images/002.png)

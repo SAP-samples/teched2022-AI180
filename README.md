@@ -1,33 +1,21 @@
-# Session ID - Session Title
+# AI180 - Automate Your Invoice Processing with SAP Process Automation
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2022 session called AI180 - Automate Your Invoice Processing with SAP Process Automation
 
 ## Overview
 
-This session introduces attendees to...
+Explore how to improve the efficiency of invoice processing with a no-code approach through this hands-on virtual workshop. During the session, you’ll leverage automation to combine forms, review and extract invoice data, create approval flows, and define rules based on your business needs.
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+You will either need a trial account with SAP Process Automation enabled (as described in this [blog](https://blogs.sap.com/2022/09/09/sap-process-automation-now-available-in-your-trail-account/)), or a regular account with the free-tier service plan for SAP Process Automation (as described in [Subscribe to SAP Process Automation Using Booster in SAP BTP Free Tier](https://developers.sap.com/tutorials/spa-subscribe-booster.html)).
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
+Start the exercises [here](https://developers.sap.com/mission.invoice-processing-approval-spa.html).
 
-- [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
-
-  
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
 
 **IMPORTANT**
 

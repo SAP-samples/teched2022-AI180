@@ -10,7 +10,7 @@
 In this exercise, you will learn:
 - How to start create SAP Process Automation Trial account
 
-## 1. Get a Free Account on SAP BTP <a name="AccountBTP"></a>
+## 1. Create an Account on SAP BTP <a name="AccountBTP"></a>
 
 1. Complete [Get a Free Account on SAP BTP Trial](https://developers.sap.com/tutorials/hcp-create-trial-account.html) tutorial.
 

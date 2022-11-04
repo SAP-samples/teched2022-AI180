@@ -1,8 +1,8 @@
-# AI180 - Automate Your Invoice Processing with SAP Process Automation
+# AI180 - Automate Your Invoice Processing with SAP Build Process Automation
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called **AI180 - Automate Your Invoice Processing with SAP Process Automation**.
+This repository contains the material for the SAP TechEd 2022 session called **AI180 - Automate Your Invoice Processing with SAP Build Process Automation**.
 
 ## Overview
 
@@ -10,7 +10,7 @@ Explore how to improve the efficiency of invoice processing with a no-code appro
 
 ## Requirements
 
-You will either need a **trial account** with SAP Process Automation enabled (as described in this [blog](https://blogs.sap.com/2022/09/09/sap-process-automation-now-available-in-your-trail-account/)), or a regular account with the **free tier** service plan for SAP Process Automation (as described in [Subscribe to SAP Process Automation Using Booster in SAP BTP Free Tier](https://developers.sap.com/tutorials/spa-subscribe-booster.html)).
+You will either need a **trial account** with SAP Build Process Automation enabled (as described in this [blog](https://blogs.sap.com/2022/09/09/sap-process-automation-now-available-in-your-trail-account/)), or a regular account with the **free tier** service plan for SAP Build Process Automation (as described in [Subscribe to SAP Process Automation Using Booster in SAP BTP Free Tier](https://developers.sap.com/tutorials/spa-subscribe-booster.html)).
 
 ## Exercises
 

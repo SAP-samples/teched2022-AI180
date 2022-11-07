@@ -10,11 +10,12 @@
 In this exercise, you will learn:
 - How to subscribe to  SAP Process Automation in SAP Trial account
 
-## 1. Create an Account on SAP BTP <a name="AccountBTP"></a>
+## Create an Account on SAP BTP <a name="AccountBTP"></a>
 
-1. Complete [Get a Free Account on SAP BTP Trial](https://developers.sap.com/tutorials/hcp-create-trial-account.html) tutorial.
+Complete [Get a Free Account on SAP BTP Trial](https://developers.sap.com/tutorials/hcp-create-trial-account.html) tutorial.
+- ONLY CREATE ACCOUNT IN **US East (VA)** region
 
-## 2. Subscribe to SAP Process Automation  <a name="SPA"></a>
+## Subscribe to SAP Process Automation  <a name="SPA"></a>
 
 1.	Select **Service Marketplace**. In the Search field type **SAP Process Automation** and select the tile.
 
@@ -36,7 +37,7 @@ In this exercise, you will learn:
 
 <br>![05](./images/005.png)
 
-## 3. Assign Roles  <a name="Roles"></a>
+## Assign Roles  <a name="Roles"></a>
 
 1. To get access, assign the role collection to your user.
 - Go to the **Users**,
@@ -51,7 +52,7 @@ In this exercise, you will learn:
 <br>![07](./images/007.png)
 
 3. In the Assign Role Collection window,
-- Select 3 roles: ProcessAutomationAdmin, ProcessAutomationDeveloper, ProcessAutomationParticipant,
+- Select 3 roles: ProcessAutomationAdmin, ProcessAutomationDeveloper and ProcessAutomationParticipant
 - Select **Assign Role Collection** button.
 
 <br>![08](./images/008.png)
@@ -65,4 +66,4 @@ In this exercise, you will learn:
 <br>![10](./images/10.PNG)
 ## Summary  <a name="summary"></a>
 
-You have successfully subscribed to SAP Process Automation and start with your exercises.
+You have successfully subscribed to SAP Process Automation. Now, start with your exercises.

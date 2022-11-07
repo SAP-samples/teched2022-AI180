@@ -62,7 +62,7 @@ In this exercise, you will learn:
 
 5. Launch SAP Process Automation Tenant.
 
-<br>![10](./images/10.png)
+<br>![10](./images/10.PNG)
 ## Summary  <a name="summary"></a>
 
 You have successfully subscribed to SAP Process Automation and start with your exercises.

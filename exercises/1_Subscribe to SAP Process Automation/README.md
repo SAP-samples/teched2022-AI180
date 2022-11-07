@@ -13,7 +13,7 @@ In this exercise, you will learn:
 ## Create an Account on SAP BTP <a name="AccountBTP"></a>
 
 Complete [Get a Free Account on SAP BTP Trial](https://developers.sap.com/tutorials/hcp-create-trial-account.html) tutorial.
-- ONLY CREATE ACCOUNT IN **US East (VA)** region
+- ONLY CREATE ACCOUNT IN **US East (VA)** trial region
 
 ## Subscribe to SAP Process Automation  <a name="SPA"></a>
 

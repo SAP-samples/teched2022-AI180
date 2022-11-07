@@ -8,7 +8,7 @@
 ### Overview <a name="overview"></a>
 
 In this exercise, you will learn:
-- How to start create SAP Process Automation Trial account
+- How to subscribe to  SAP Process Automation in SAP Trial account
 
 ## 1. Create an Account on SAP BTP <a name="AccountBTP"></a>
 
@@ -64,5 +64,4 @@ In this exercise, you will learn:
 
 ## Summary  <a name="summary"></a>
 
-Now that you have ...
-Continue to - [Exercise 2](../ex2/README.md)
+You have successfully subscribed to SAP Process Automation and start with your exercises.

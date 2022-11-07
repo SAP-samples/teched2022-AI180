@@ -60,8 +60,9 @@ In this exercise, you will learn:
 
 <br>![09](./images/009.png)
 
-5. Launch SAP Application Development.
+5. Launch SAP Process Automation Tenant.
 
+<br>![10](./images/10.png)
 ## Summary  <a name="summary"></a>
 
 You have successfully subscribed to SAP Process Automation and start with your exercises.

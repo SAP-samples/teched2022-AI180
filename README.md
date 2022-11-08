@@ -2,8 +2,7 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called [AI180 - Automate Your Invoice Processing with SAP Build Process Automation]
-(https://go3.events.sap.com/sapteched/hybrid/2022/reg/flow/sap/saptech2022/sapteched2022catalog/page/catalog/session/1661198041428001ExKO).
+This repository contains the material for the SAP TechEd 2022 session called [AI180 - Automate Your Invoice Processing with SAP Build Process Automation](https://go3.events.sap.com/sapteched/hybrid/2022/reg/flow/sap/saptech2022/sapteched2022catalog/page/catalog/session/1661198041428001ExKO).
 
 ## Overview
 

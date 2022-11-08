@@ -6,15 +6,18 @@ This repository contains the material for the SAP TechEd 2022 session called [AI
 
 ## Overview
 
-Explore how to improve the efficiency of invoice processing with a no-code approach through this hands-on virtual workshop. During the session, you’ll leverage automation to combine forms, review and extract invoice data with RPA BOT, create approval flows, and define rules based on your business needs.
+Explore how to improve the efficiency of invoice processing with a no-code approach through this hands-on virtual workshop. During the session, you’ll leverage automation to combine forms, review and extract invoice data with  Document Extraction capabilities of AI using RPA BOT, create approval flows, and define rules based on your business needs.
 
 ## Requirements
 
-You will either need a **trial account** with SAP Build Process Automation enabled (as described in this [blog](https://blogs.sap.com/2022/09/09/sap-process-automation-now-available-in-your-trail-account/)), or a regular account with the **free tier** service plan for SAP Build Process Automation (as described in [Subscribe to SAP Process Automation Using Booster in SAP BTP Free Tier](https://developers.sap.com/tutorials/spa-subscribe-booster.html)).
+You will either need a **trial account** with SAP Build Process Automation enabled (as described in this [excercise](exercises/1_Subscribe to SAP Process Automation/README.md)), or a regular account with the **free tier** service plan for SAP Build Process Automation (as described in [Subscribe to SAP Process Automation Using Booster in SAP BTP Free Tier](https://developers.sap.com/tutorials/spa-subscribe-booster.html)).
 
 ## Exercises
+Start the exercises:
 
-Start the exercises [here](https://developers.sap.com/mission.invoice-processing-approval-spa.html). 
+- [Setup your environment](exercises/1_Subscribe to SAP Process Automation/README.md) **[IMPORTANT]**
+
+Start the exercises [here](https://developers.sap.com/mission.invoice-processing-approval-spa.html).
 
 ## How to obtain support
 

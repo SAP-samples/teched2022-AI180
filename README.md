@@ -13,9 +13,6 @@ Explore how to improve the efficiency of invoice processing with a no-code appro
 You will either need a **trial account** with SAP Build Process Automation enabled (as described in this [excercise](exercises/1_Subscribe to SAP Process Automation/README.md)), or a regular account with the **free tier** service plan for SAP Build Process Automation (as described in [Subscribe to SAP Process Automation Using Booster in SAP BTP Free Tier](https://developers.sap.com/tutorials/spa-subscribe-booster.html)).
 
 ## Exercises
-Start the exercises:
-
-- [Setup your environment](exercises/1_Subscribe to SAP Process Automation/README.md) **[IMPORTANT]**
 
 Start the exercises [here](https://developers.sap.com/mission.invoice-processing-approval-spa.html).
 

@@ -6,7 +6,7 @@ This repository contains the material for the SAP TechEd 2022 session called [AI
 
 ## Overview
 
-Explore how to improve the efficiency of invoice processing with a no-code approach through this hands-on virtual workshop. During the session, you’ll leverage automation to combine forms, review and extract invoice data, create approval flows, and define rules based on your business needs.
+Explore how to improve the efficiency of invoice processing with a no-code approach through this hands-on virtual workshop. During the session, you’ll leverage automation to combine forms, review and extract invoice data with RPA BOT, create approval flows, and define rules based on your business needs.
 
 ## Requirements
 

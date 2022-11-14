@@ -68,7 +68,7 @@ To trigger the process you will create a form to provide the most relevant input
    
 2. In the **Create Form** window enter:
    - Name: **Invoice Request Form**
-   - Description: **Form to start the process**
+   - Description: **Form to start the process**  
    *The identifier will be filled automatically.*
    
    ![Create Form](images/DefineForm02.png)
@@ -79,12 +79,25 @@ To trigger the process you will create a form to provide the most relevant input
    
 4. In the form you have multiple layout and input elements.
 
+   ![Create Form](images/005b.png)
+
    To add layout and inputs, drag and drop them or click on the element to include them in the form.
    
 5. Add Layout elements:
 
-
+    | Layout Type    | Name|
+    | :------------- | :------------- |
+    | Headline 1      | Invoice Request Form      |
+    | Paragraph | Please provide the following details to start the process: |
    
+  ![Create Form](images/006.png)
+  
+6. Add Input elements:
+
+    | Input Field Type    | Name | Settings |
+    | :------------- | :------------- | :------------ |
+    | Headline 1      | Invoice Request Form      | Required |
+    | Paragraph | Please provide the following details to start the process: |
 
 
 ## Summary <a name="summary"></a>

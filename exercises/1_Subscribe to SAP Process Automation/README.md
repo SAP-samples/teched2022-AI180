@@ -34,7 +34,7 @@ In this exercise, you will learn:
 
 <br>![04](./images/004.png)
 
-5. Check if its processed and created successfully.
+5. Check if it is processed and created successfully.
 
 <br>![05](./images/005.png)
 

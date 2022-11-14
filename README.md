@@ -6,7 +6,14 @@ This repository contains the material for the SAP TechEd 2022 session called [AI
 
 ## Overview
 
-Explore how to improve the efficiency of invoice processing with a no-code approach through this hands-on virtual workshop. During the session, you’ll leverage automation to combine forms, review and extract invoice data with  Document Extraction capabilities of AI using RPA BOT, create approval flows, and define rules based on your business needs.
+Explore how to improve the efficiency of invoice processing with a no-code approach through this virtual hands-on workshop. During the session, you will be
+- leveraging an automation to review and extract invoice data with document information extraction capabilities
+- defining forms to review and approve the invoice data
+- configuring decisions to determine the approver
+
+**Scenario Overview**
+
+![Scenario Overview!](/exercises/AI180_Scenario.png "Automate paper-based invoice processing")
 
 ## Requirements
 
@@ -15,6 +22,8 @@ or a regular account with the **free tier** service plan for SAP Build Process A
 
 ## Exercises
 
+1. Create a [business process project](https://github.com/SAP-samples/teched2022-AI180/tree/main/exercises/2_CreateBusinessProcess)
+2. 
 Start the exercises [here](https://developers.sap.com/mission.invoice-processing-approval-spa.html).
 
 ## How to obtain support

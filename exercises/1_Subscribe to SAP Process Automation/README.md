@@ -12,8 +12,8 @@ In this exercise, you will learn:
 
 ## Create an Account on SAP BTP <a name="AccountBTP"></a>
 
-- CREATE AN ACCOUNT IN **US East (VA) - AWS** trial region
-<br>Complete [Get a Free Account on SAP BTP Trial](https://developers.sap.com/tutorials/hcp-create-trial-account.html) tutorial.
+- **IMPORTANT**: CREATE AN ACCOUNT IN **US East (VA) - AWS** trial region
+- Complete [Get a Free Account on SAP BTP Trial](https://developers.sap.com/tutorials/hcp-create-trial-account.html) tutorial.
 
 
 ## Subscribe to SAP Process Automation  <a name="SPA"></a>

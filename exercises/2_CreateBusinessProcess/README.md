@@ -62,7 +62,7 @@ Let's start with the creation of business process project and a form to trigger 
 
 To trigger the process you will create a form to provide the most relevant inputs.
 
-1. In the canvas, select the the **Trigger** and click **+**, the select **Forms > New Forms**.
+1. In the canvas, select the the **Trigger** and click **+**, then select **Forms > New Forms**.
 
    ![Create Form](images/DefineForm01.png)
    

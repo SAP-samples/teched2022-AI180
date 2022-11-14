@@ -90,18 +90,27 @@ To trigger the process you will create a form to provide the most relevant input
     | Headline 1      | Invoice Request Form      |
     | Paragraph | Please provide the following details to start the process: |
    
-  ![Create Form](images/006.png)
+   ![Create Form](images/006.png)
   
 6. Add Input elements:
 
     | Input Field Type    | Name | Settings |
     | :------------- | :------------- | :------------ |
-    | Headline 1      | Invoice Request Form      | Required |
-    | Paragraph | Please provide the following details to start the process: |
+    | Text      | Employee Name   | Required |
+    | Text      | File Path   | Required |
+    | Date      | Current Date | Required |
+    
+    *Required checkbox indicates, that it is a mandatory field.
+    
+    ![Create Form](images/007.png)
+    
+7. **Save** the form.
+
+   ![Create Form](images/008.png)    
 
 
 ## Summary <a name="summary"></a>
 
-Now, that you have created the business process, it time to design the process with different activities like forms, decisions, automation etc.
+Now, that you have created the business process and the first form, it is time to create the automation.
 
 Continue to - 2. [Create an automation to extract Invoice Details](https://developers.sap.com/tutorials/spa-dox-create-automation.html)

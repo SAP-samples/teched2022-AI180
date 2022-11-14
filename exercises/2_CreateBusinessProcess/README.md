@@ -14,13 +14,13 @@ Let's start with the creation of business process project and a form to trigger 
 
 1. In the **Lobby**, choose **Create**.
 
-    > The lobby is a central page for creating, accessing, and managing your projects in SAP Process Automation. You can access business application processes, company configured templates, and other resources for your end-to-end business process.
+    > The lobby is a central page for creating, accessing, and managing your projects in SAP Build Process Automation. You can access business application processes, company configured templates, and other resources for your end-to-end business process.
 
     ![Lobby overview](images/CreateProcess_01.png)
 
 2. In the popup, click **Build an Automated Process** and then select **Business Process**.
 
-    > Business Process Projects are a collection of skills in SAP Process Automation. Projects are part of the internal business processes of a company and are defined based on business scenarios. A project can contain a set of processes, forms, automations and decisions, which are reusable artifacts.
+    > Business Process Projects are a collection of skills in SAP Build Process Automation. Projects are part of the internal business processes of a company and are defined based on business scenarios. A project can contain a set of processes, forms, automations and decisions, which are reusable artifacts.
 
     ![Create a Business Process Project](images/CreateProcess_02.png)
 
@@ -28,10 +28,10 @@ Let's start with the creation of business process project and a form to trigger 
 
     | Field    | Value|
     | :------------- | :------------- |
-    | Project Name      | Sales Orders Management      |
-    | Short Description | Project to automate sales order approval |
+    | Project Name      | Invoice Approval      |
+    | Short Description | Process to extract information from an invoice and get the needed approvals. |
 
-    ![Fill Project information ](images/CreateProcess_03.png)
+    ![Fill Project information ](images/CreateBusinessProcess03.png)
 
     > Once the project is created successfully, a new editor will open to add the process to the newly created project.
 
@@ -44,18 +44,18 @@ Let's start with the creation of business process project and a form to trigger 
 
     | Field    | Value|
     | :------------- | :------------- |
-    | Name      | Order Processing      |
-    | Description | A process to handle sales order approvals |
+    | Name      | Get Invoice Details      |
+    | Description | Process to approve invoices |
 
     - Choose **Create**.
 
     > The process **Identifier** field is auto-filled.
 
-    ![Process Builder Create Process filled](images/CreateProcess_04.png)
+    ![Process Builder Create Process filled](images/CreateBusinessProcess04.png)
 
 4. Once the process is created, the process builder will open automatically and you can start modelling the process.
 
-    ![Fill Project information ](images/CreateProcess_05.png)
+    ![Fill Project information ](images/CreateBusinessProcess05.png)
 
 
 ## Define the Form to Start the Process <a name="defineform"></a>

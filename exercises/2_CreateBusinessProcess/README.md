@@ -60,6 +60,32 @@ Let's start with the creation of business process project and a form to trigger 
 
 ## Define the Form to Start the Process <a name="defineform"></a>
 
+To trigger the process you will create a form to provide the most relevant inputs.
+
+1. In the canvas, select the the **Trigger** and click **+**, the select **Forms > New Forms**.
+
+   ![Create Form](images/DefineForm01.png)
+   
+2. In the **Create Form** window enter:
+   - Name: **Invoice Request Form**
+   - Description: **Form to start the process**
+   *The identifier will be filled automatically.*
+   
+   ![Create Form](images/DefineForm02.png)
+   
+3. Open the form editor.
+
+   ![Create Form](images/DefineForm03.png)
+   
+4. In the form you have multiple layout and input elements.
+
+   To add layout and inputs, drag and drop them or click on the element to include them in the form.
+   
+5. Add Layout elements:
+
+
+   
+
 
 ## Summary <a name="summary"></a>
 

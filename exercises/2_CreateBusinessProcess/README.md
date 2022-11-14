@@ -38,7 +38,7 @@ Let's start with the creation of business process project and a form to trigger 
 
 ## Create a Business Process <a name="createprocess"></a>
 
-3. In the **Create Process** dialog box
+1. In the **Create Process** dialog box
 
     - Enter the following field values:
 
@@ -53,7 +53,7 @@ Let's start with the creation of business process project and a form to trigger 
 
     ![Process Builder Create Process filled](images/CreateBusinessProcess04.png)
 
-4. Once the process is created, the process builder will open automatically and you can start modelling the process.
+2. Once the process is created, the process builder will open automatically and you can start modelling the process.
 
     ![Fill Project information ](images/CreateBusinessProcess05.png)
 
@@ -68,8 +68,9 @@ To trigger the process you will create a form to provide the most relevant input
    
 2. In the **Create Form** window enter:
    - Name: **Invoice Request Form**
-   - Description: **Form to start the process**  
-   *The identifier will be filled automatically.*
+   - Description: **Form to start the process** 
+    
+   > The identifier will be filled automatically.
    
    ![Create Form](images/DefineForm02.png)
    
@@ -100,7 +101,7 @@ To trigger the process you will create a form to provide the most relevant input
     | Text      | File Path   | Required |
     | Date      | Current Date | Required |
     
-    *Required checkbox indicates, that it is a mandatory field.
+    > Required checkbox indicates, that it is a mandatory field.
     
     ![Create Form](images/007.png)
     

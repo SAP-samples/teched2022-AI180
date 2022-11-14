@@ -22,9 +22,18 @@ or a regular account with the **free tier** service plan for SAP Build Process A
 
 ## Exercises
 
-1. Create a [business process project](https://github.com/SAP-samples/teched2022-AI180/tree/main/exercises/2_CreateBusinessProcess)
-2. 
-Start the exercises [here](https://developers.sap.com/mission.invoice-processing-approval-spa.html).
+1.1 [Create a business process project](https://github.com/SAP-samples/teched2022-AI180/tree/main/exercises/2_CreateBusinessProcess)
+1.2 [Create a business process](https://developers.sap.com/tutorials/spa-dox-create-process.html)
+
+3. [Define the form to start the process](https://developers.sap.com/tutorials/spa-dox-create-process.html)
+
+4. [Create an automation to extract Invoice Details](https://developers.sap.com/tutorials/spa-dox-create-automation.html)
+
+5. [Create a Decision for Invoice Approval Process](https://developers.sap.com/tutorials/spa-dox-create-decision.html)
+
+6. [Create Forms for Invoice Approval Process](https://developers.sap.com/tutorials/spa-dox-forms.html)
+
+7. [Release, Deploy and Run the Process](https://developers.sap.com/tutorials/spa-dox-forms.html)
 
 ## How to obtain support
 

@@ -63,4 +63,4 @@ There are many use cases where you can make a difference using SAP Process Autom
 
 Now, that you have created the business process, it time to design the process with different activities like forms, decisions, automation etc.
 
-Continue to - [Exercise 1.2 - Create and Configure Forms](https://developers.sap.com/tutorials/spa-create-forms.html)
+Continue to - [Exercise 1.2 - Create a Process](https://developers.sap.com/tutorials/spa-dox-create-process.html)

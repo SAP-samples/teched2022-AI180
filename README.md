@@ -17,7 +17,7 @@ Explore how to improve the efficiency of invoice processing with a no-code appro
 
 ## Requirements
 
-You will either need a **trial account** with SAP Build Process Automation enabled as described in this [excercise](https://github.com/SAP-samples/teched2022-AI180/blob/main/exercises/1_Subscribe%20to%20SAP%20Process%20Automation/README.md),  
+You will either need a **trial account** with SAP Build Process Automation enabled as described in this **[exercise](https://github.com/SAP-samples/teched2022-AI180/blob/main/exercises/1_Subscribe%20to%20SAP%20Process%20Automation/README.md)**,  
 or a regular account with the **free tier** service plan for SAP Build Process Automation (as described in [Subscribe to SAP Process Automation Using Booster in SAP BTP Free Tier](https://developers.sap.com/tutorials/spa-subscribe-booster.html)).
 
 ## Exercises

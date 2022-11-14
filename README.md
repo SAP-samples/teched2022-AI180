@@ -8,8 +8,8 @@ This repository contains the material for the SAP TechEd 2022 session called [AI
 
 Explore how to improve the efficiency of invoice processing with a no-code approach through this virtual hands-on workshop. During the session, you will be
 - leveraging an automation to review and extract invoice data with document information extraction capabilities
-- defining forms to review and approve the invoice data
 - configuring decisions to determine the approver
+- defining forms to review and approve the invoice data
 
 **Scenario Overview**
 
@@ -22,18 +22,15 @@ or a regular account with the **free tier** service plan for SAP Build Process A
 
 ## Exercises
 
-1.1 [Create a business process project](https://github.com/SAP-samples/teched2022-AI180/tree/main/exercises/2_CreateBusinessProcess)
-1.2 [Create a business process](https://developers.sap.com/tutorials/spa-dox-create-process.html)
+1. [Create a business process project](https://github.com/SAP-samples/teched2022-AI180/tree/main/exercises/2_CreateBusinessProcess)
 
-3. [Define the form to start the process](https://developers.sap.com/tutorials/spa-dox-create-process.html)
+2. [Create an automation to extract Invoice Details](https://developers.sap.com/tutorials/spa-dox-create-automation.html)
 
-4. [Create an automation to extract Invoice Details](https://developers.sap.com/tutorials/spa-dox-create-automation.html)
+3. [Create a Decision for Invoice Approval Process](https://developers.sap.com/tutorials/spa-dox-create-decision.html)
 
-5. [Create a Decision for Invoice Approval Process](https://developers.sap.com/tutorials/spa-dox-create-decision.html)
+4. [Create Forms for Invoice Approval Process](https://developers.sap.com/tutorials/spa-dox-forms.html)
 
-6. [Create Forms for Invoice Approval Process](https://developers.sap.com/tutorials/spa-dox-forms.html)
-
-7. [Release, Deploy and Run the Process](https://developers.sap.com/tutorials/spa-dox-forms.html)
+5. [Release, Deploy and Run the Process](https://developers.sap.com/tutorials/spa-dox-forms.html)
 
 ## How to obtain support
 

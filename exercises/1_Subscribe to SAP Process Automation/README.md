@@ -67,4 +67,4 @@ In this exercise, you will learn:
 <br>![10](./images/10.PNG)
 ## Summary  <a name="summary"></a>
 
-You have successfully subscribed to SAP Process Automation. Now, start with your exercises.
+You have successfully subscribed to SAP Process Automation. Now, start with your [exercises](https://github.com/SAP-samples/teched2022-AI180/blob/main/README.md).

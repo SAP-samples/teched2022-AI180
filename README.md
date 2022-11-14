@@ -30,7 +30,7 @@ or a regular account with the **free tier** service plan for SAP Build Process A
 
 4. [Create Forms for Invoice Approval Process](https://developers.sap.com/tutorials/spa-dox-forms.html)
 
-5. [Release, Deploy and Run the Process](https://developers.sap.com/tutorials/spa-dox-forms.html)
+5. [Release, Deploy and Run the Process](https://developers.sap.com/tutorials/spa-dox-run-process.html)
 
 ## How to obtain support
 

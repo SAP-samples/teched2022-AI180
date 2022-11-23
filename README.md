@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2022-AI180)](https://api.reuse.software/info/github.com/SAP-samples/teched2022-AI180)
+
 # AI180 - Automate Your Invoice Processing with SAP Build Process Automation
 
 ## Description
